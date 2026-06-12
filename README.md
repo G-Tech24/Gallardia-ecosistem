@@ -20,6 +20,10 @@
 | 08 | [Flujos de trabajo detallados](docs/08-flujos-de-trabajo.md) | Flujos paso a paso: día típico del sistema, lead → cierre, foto → publicación, factura → estado financiero |
 | 09 | [Cronograma de implementación](docs/09-cronograma.md) | Plan por fases (16 semanas), hitos, criterios de aceptación |
 | 10 | [Riesgos, limitaciones y roadmap](docs/10-riesgos-limitaciones-roadmap.md) | Matriz de riesgos, limitaciones honestas, versión ideal vs. versión construible hoy, mejoras futuras |
+| 11 | [Investigación open source](docs/11-investigacion-open-source.md) | Catálogo evaluado de ecosistemas open source (ERP, field service, agentes IA, media, soporte), joyas ocultas, fuentes verificadas |
+| 12 | [Arquitectura evolucionada](docs/12-arquitectura-evolucionada.md) | Arquitectura v2/v3/ideal sobre ERPNext + agentes, efecto 10X (licitaciones PanamaCompra, cotización satelital, estimador PERT), stacks completos |
+
+> **Nota de evolución:** los docs 11–12 actualizan el diseño v1 con el contexto real del negocio (jardinería, pintura, remodelación, limpieza en Panamá) y reemplazan gran parte del desarrollo a medida por ERPNext y un ecosistema open source verificado. El cronograma del doc 09 se acorta de 16 a 10–12 semanas bajo el v2.
 
 ---
 
